@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using App.Models;
 
-namespace linux.Controllers;
+namespace App.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
