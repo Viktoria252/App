@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using linux.Models;
+using App.Models;
 
 namespace App.Controllers;
 
